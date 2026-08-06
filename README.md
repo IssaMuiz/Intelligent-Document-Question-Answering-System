@@ -153,13 +153,13 @@ intelligent-document-question-answering-system/
 
 * [x] Project planning
 * [x] Repository initialization
-* [ ] Document analysis
-* [ ] PDF parsing
-* [ ] Text preprocessing
-* [ ] Chunking strategies
-* [ ] Embedding generation
-* [ ] Vector database implementation
-* [ ] Semantic retrieval
+* [x] Document analysis
+* [x] PDF parsing
+* [x] Text preprocessing
+* [x] Chunking strategies
+* [x] Embedding generation
+* [x] Vector database implementation
+* [x] Semantic retrieval
 * [ ] Prompt engineering
 * [ ] LLM integration
 * [ ] Evaluation
