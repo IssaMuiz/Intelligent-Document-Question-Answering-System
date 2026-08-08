@@ -160,8 +160,8 @@ intelligent-document-question-answering-system/
 * [x] Embedding generation
 * [x] Vector database implementation
 * [x] Semantic retrieval
-* [ ] Prompt engineering
-* [ ] LLM integration
+* [x] Prompt engineering
+* [x] LLM integration
 * [ ] Evaluation
 * [ ] Error analysis
 * [ ] Streamlit deployment
